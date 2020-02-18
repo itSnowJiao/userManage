@@ -1,0 +1,2 @@
+1、npm install 安装依赖
+2、npm run json:server 运行环境

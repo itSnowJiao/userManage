@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "测试修改详情",
+      "email": "cs@test.com",
+      "phone": "123789",
+      "education": "本科",
+      "school": "齐齐哈尔大学",
+      "profession": "前端",
+      "profile": "前端职业，这是一个提升很快但很费眼的职业",
+      "id": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "desc": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Goole",
+      "desc": "Goole is good!"
+    },
+    {
+      "id": 3,
+      "name": "MSC",
+      "desc": "MSC is good!"
+    }
+  ]
+}

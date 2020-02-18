@@ -1,0 +1,5 @@
+1、npm install 安装依赖
+2、npm run dev 运行
+3、npm run build 打包
+
+https://github.com/itSnowJiao/userManage.git
